@@ -1,0 +1,5 @@
+export INFLUX_TOKEN=gXbb65wlqaqmr5HQtOBYVoc-jJxFoPo5iNA5tGPUyoP5Nf8UWyjLjH_XwX0sI4LPW1fKJpy3SqLXtSIBPH7V4g==
+
+telegraf --config http://54.146.7.129:8086/api/v2/telegrafs/0aaaadf97c45a000
+
+api para grafana: ArXOLiAbeiDYAg7a9At0i9S15Y0MgTe45VqO9XTFrymot5MFXJ8WeXp_XByUFntJCn8mtQ-PjzY63uR34HSZzw==
